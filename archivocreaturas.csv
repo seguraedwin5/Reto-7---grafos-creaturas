@@ -1,0 +1,100 @@
+avestruz,Enemigo,aguila,avestruz,tiburon,buffalo
+jaguar,Neutro,ganzo,ogro,siervo,tiburon
+vaca,Neutro,quimera,perro,gorila,pez
+colibri,Enemigo,rinoceronte,koala,iguana,perro
+hiena,Neutro,bruja,piraña,tortuga,jaguar
+ganzo,Enemigo,oso,bruja,gorila,gato
+oso,Enemigo,vaca,koala,colibri,troll
+babuino,Neutro,armadillo,gato,castor,koala
+delfin,Neutro,gato,lobo,delfin,babuino
+ciclope,Enemigo,buffalo,castor,troll,cabra
+gato,Amigo,mono,gigante,tiburon,gallo
+cabra,Enemigo,delfin,gigante,cobra,dinosaurio
+zombie,Neutro,ganzo,gallo,conejo,llama
+murcielago,Enemigo,armadillo,lobo,zombie,pez
+cobra,Enemigo,toro,gallina,castor,cangrejo
+robot,Amigo,tiburon,hiena,gallo,llama
+camello,Neutro,halcon,ardilla,ardilla,toro
+rinoceronte,Amigo,oso,troll,bruja,buffalo
+ganzo,Neutro,gato,troll,halcon,bruja
+buffalo,Amigo,siervo,gorila,pato,perro
+delfin,Neutro,armadillo,siervo,ardilla,robot
+halcon,Amigo,mono,conejo,cobra,piraña
+aguila,Amigo,camello,siervo,tigre de bengala,gigante
+babuino,Amigo,oveja,koala,ave,colibri
+piraña,Enemigo,ardilla,gallo,ganzo,iguana
+ganzo,Enemigo,koala,mago,gallina,dinosaurio
+caballo,Enemigo,lobo,delfin,camello,oso
+bruja,Enemigo,panda,robot,escorpion gigante,lagarto
+delfin,Amigo,buffalo,dinosaurio,panda,zombie
+ardilla,Enemigo,mago,cangrejo,cangrejo,camello
+caballo,Enemigo,rinoceronte,perro,ogro,gigante
+mono,Amigo,quimera,cabra,armadillo,ciclope
+gallina,Enemigo,oso,koala,perro,dinosaurio
+pez,Enemigo,ciclope,perro,gato,koala
+leon,Amigo,siervo,siervo,quimera,panda
+lagarto,Amigo,aguila,koala,ogro,murcielago
+lobo,Neutro,ogro,vaca,mago,gato
+pato,Amigo,murcielago,ciclope,pez,ardilla
+halcon,Enemigo,cangrejo,siervo,quimera,tigre de bengala
+camello,Neutro,pato,buffalo,ave,lobo
+jaguar,Neutro,aguila,rinoceronte,vaca,cabra
+leon,Amigo,lagarto,leon,murcielago,pato
+panda,Amigo,caballo,troll,vaca,ganzo
+troll,Enemigo,mago,mono,cangrejo,troll
+jaguar,Neutro,gigante,murcielago,caballo,gato
+ave,Enemigo,quimera,hiena,tiburon,mono
+mono,Amigo,quimera,dinosaurio,babuino,gallina
+mono,Enemigo,jaguar,perro,ogro,colibri
+tiburon,Amigo,troll,oso,gallina,jaguar
+buffalo,Amigo,zombie,piraña,zombie,ave
+gigante,Amigo,armadillo,siervo,conejo,oso
+mago,Amigo,cabra,siervo,buey,tiburon
+mono,Neutro,vaca,tigre de bengala,tortuga,leon
+lagarto,Enemigo,cobra,camello,armadillo,perro
+gorila,Amigo,oso,ave,rinoceronte,halcon
+buey,Neutro,jaguar,tortuga,zombie,hiena
+dinosaurio,Enemigo,lobo,gorila,leon,gato
+avestruz,Neutro,vaca,cangrejo,murcielago,tiburon
+gallina,Neutro,llama,robot,troll,leon
+panda,Neutro,bruja,robot,hiena,iguana
+aguila,Enemigo,ardilla,murcielago,oso,murcielago
+tiburon,Enemigo,loro,escorpion gigante,tiburon,siervo
+halcon,Amigo,pez,tiburon,colibri,robot
+pez,Amigo,pato,vaca,pez,ave
+buey,Neutro,perro,camello,conejo,cangrejo
+ciclope,Neutro,armadillo,lobo,babuino,gorila
+halcon,Enemigo,ogro,tigre de bengala,gorila,iguana
+avestruz,Neutro,cangrejo,cabra,leon,piraña
+ganzo,Enemigo,halcon,ave,camello,piraña
+pez,Enemigo,bruja,ogro,robot,aguila
+piraña,Enemigo,cabra,pez,tigre de bengala,ciclope
+buffalo,Neutro,llama,pez,ave,gato
+mago,Amigo,lagarto,armadillo,panda,lagarto
+gallina,Amigo,tiburon,piraña,murcielago,llama
+perro,Amigo,perro,tiburon,conejo,gallina
+tiburon,Neutro,cobra,murcielago,ganzo,gigante
+murcielago,Neutro,tortuga,halcon,gigante,pato
+iguana,Neutro,robot,rinoceronte,delfin,ave
+pato,Enemigo,camello,cobra,buffalo,loro
+colibri,Enemigo,mono,jaguar,tigre de bengala,halcon
+lagarto,Neutro,quimera,pez,rinoceronte,oso
+mono,Neutro,buffalo,zombie,pato,conejo
+camello,Enemigo,jaguar,leon,ardilla,buey
+escorpion gigante,Amigo,buffalo,koala,cabra,oso
+gallina,Neutro,pez,dinosaurio,ave,dinosaurio
+leon,Enemigo,lagarto,ardilla,aguila,gato
+mono,Enemigo,piraña,avestruz,buffalo,tigre de bengala
+ganzo,Amigo,toro,rinoceronte,llama,avestruz
+buey,Amigo,llama,pato,perro,gigante
+zombie,Amigo,cangrejo,cobra,koala,leon
+armadillo,Enemigo,ardilla,perro,perro,lobo
+quimera,Amigo,cobra,gigante,rinoceronte,loro
+halcon,Neutro,gato,piraña,toro,murcielago
+robot,Neutro,zombie,robot,murcielago,vaca
+cabra,Neutro,leon,ave,rinoceronte,koala
+cobra,Enemigo,gallina,hiena,lobo,gato
+caballo,Amigo,bruja,robot,bruja,caballo
+ganzo,Amigo,delfin,jaguar,hiena,loro
+lagarto,Amigo,ave,piraña,gallina,tigre de bengala
+iguana,Amigo,siervo,oso,pez,panda
